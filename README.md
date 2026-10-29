@@ -1,4 +1,4 @@
-# Samvahan — MedBalance-Q v2
+MedBalance
 
 **Expiry-aware essential medicine redistribution for district health networks, powered by quantum-inspired (QUBO) optimization.**
 
@@ -10,7 +10,7 @@
 
 Indian district health networks lose crores in expired medicines every year. Facilities hold surplus stock while neighboring facilities face stockouts of the same drugs. Manual redistribution is slow, ad-hoc, and ignores expiry timelines.
 
-MedBalance-Q solves this by modeling the redistribution problem as a **Quadratic Unconstrained Binary Optimization (QUBO)** — a formulation native to quantum annealers and QAOA circuits. Binary decision variables `x(k,d)` represent "send surplus chunk k to facility d", and the objective balances value recovery, FEFO compliance, shortage filling, and transport cost.
+MedBalance solves this by modeling the redistribution problem as a **Quadratic Unconstrained Binary Optimization (QUBO)** — a formulation native to quantum annealers and QAOA circuits. Binary decision variables `x(k,d)` represent "send surplus chunk k to facility d", and the objective balances value recovery, FEFO compliance, shortage filling, and transport cost.
 
 ## Architecture
 
@@ -184,7 +184,3 @@ Synthetic district data in `backend/data/` representing a Bangalore-area health 
 | `test_main.py` | 19 | All 11 FastAPI endpoints |
 | **Total** | **231** | |
 
-## Team
-
-- **Sanjay S**
-- **Vasanth**
