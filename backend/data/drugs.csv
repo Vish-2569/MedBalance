@@ -1,0 +1,11 @@
+code,name,molecule,strength,form,tier,criticality,requires_cold_chain,unit_price_inr
+insulin_40iu_ml_injection,Insulin 40 IU/ml,Insulin,40 IU/ml,injection,life_saving,3,true,45.0
+metformin_500mg_tablet,Metformin 500mg,Metformin,500mg,tablet,essential,2,false,2.0
+amoxicillin_500mg_capsule,Amoxicillin 500mg,Amoxicillin,500mg,capsule,essential,2,false,5.0
+ors_sachet,ORS Sachet,ORS,,sachet,essential,2,false,8.0
+paracetamol_500mg_tablet,Paracetamol 500mg,Paracetamol,500mg,tablet,routine,1,false,1.0
+amlodipine_5mg_tablet,Amlodipine 5mg,Amlodipine,5mg,tablet,life_saving,3,false,3.0
+oxytocin_5iu_injection,Oxytocin 5 IU,Oxytocin,5 IU,injection,life_saving,3,true,25.0
+iron_folic_acid_tablet,Iron + Folic Acid,Iron + Folic Acid,,tablet,essential,2,false,1.5
+azithromycin_500mg_tablet,Azithromycin 500mg,Azithromycin,500mg,tablet,essential,2,false,12.0
+salbutamol_100mcg_inhaler,Salbutamol 100mcg,Salbutamol,100mcg,inhaler,life_saving,3,false,85.0

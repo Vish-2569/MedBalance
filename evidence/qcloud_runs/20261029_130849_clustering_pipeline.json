@@ -1,0 +1,49 @@
+{
+  "chosen_clusters": [
+    [
+      "CHC-01",
+      "CHC-02",
+      "PHC-01",
+      "PHC-02"
+    ],
+    [
+      "DS-01",
+      "GH-01",
+      "GH-02"
+    ]
+  ],
+  "kmeans_clusters": [
+    [
+      "DS-01",
+      "GH-02",
+      "CHC-02",
+      "PHC-02"
+    ],
+    [
+      "GH-01",
+      "CHC-01",
+      "PHC-01"
+    ]
+  ],
+  "comparison": {
+    "winner": "qcloud",
+    "kmeans_cost": 6800.0,
+    "qcloud_cost": 3150.0,
+    "savings": 3650.0,
+    "recommended_clusters": [
+      [
+        "CHC-01",
+        "CHC-02",
+        "PHC-01",
+        "PHC-02"
+      ],
+      [
+        "DS-01",
+        "GH-01",
+        "GH-02"
+      ]
+    ]
+  },
+  "authenticated": true,
+  "qaoa_available": true
+}

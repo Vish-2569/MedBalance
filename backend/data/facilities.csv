@@ -1,0 +1,8 @@
+id,name,type,latitude,longitude,has_cold_storage
+DS-01,District Drug Store,district_store,12.97,77.59,true
+GH-01,General Hospital,hospital,12.93,77.58,true
+GH-02,General Hospital East,hospital,13.03,77.65,true
+CHC-01,Community Health Centre South,chc,12.85,77.50,true
+CHC-02,Community Health Centre North,chc,13.10,77.72,false
+PHC-01,Primary Health Centre West,phc,12.78,77.45,false
+PHC-02,Primary Health Centre East,phc,13.15,77.80,false
