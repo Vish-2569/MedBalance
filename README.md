@@ -1,8 +1,8 @@
-MedBalance
+## MedBalance
 
 **Expiry-aware essential medicine redistribution for district health networks, powered by quantum-inspired (QUBO) optimization.**
 
-> GENAI-04: Design an AI-driven system that uses quantum computing to optimize the supply chain of essential medicines in a district-level health network, reducing expiry-based wastage while ensuring equitable distribution.
+Design an AI-driven system that uses quantum computing to optimize the supply chain of essential medicines in a district-level health network, reducing expiry-based wastage while ensuring equitable distribution.
 
 ---
 
